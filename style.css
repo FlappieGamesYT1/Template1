@@ -56,7 +56,7 @@ header ul li a {
     align-items: center;
     height: 90%;
     flex-direction: column;
-    background-image: url("afbeeldingen/afbeelding.png");
+    background-image: url("afbeelding.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
